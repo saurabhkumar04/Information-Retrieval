@@ -1,0 +1,55 @@
+Assignemnt 3
+Search
+Saurabh Kumar
+
+1.  Top 10 ranked authors
+
+Author                                   VertexId Pagerank
+Pat  Hanrahan                            989      .0104335
+Jason  Cong                              1495     .0103347
+D. F. Wong                               657      .0089589
+Alberto L. Sangiovanni-Vincentelli       710      .008203
+Christos  Faloutsos                      813      .0075923
+Robert K. Brayton                        1627     .0071511
+Rajive  Bagrodia                         555      .0063304
+Josep  Torrellas                         382      .0062508
+Nikil D. Dutt                            1947     .0062102
+Raghu  Ramakrishnan                      765      .006023
+
+
+2. Top 10 rankedauthors given query “Data Mining”
+
+Query: data mining
+4448 total matching documents
+Unique authors: 137
+Author                                   VertexId Pagerank
+Jason  Cong                              1495     .0458054
+Christos  Faloutsos                      813      .0329038
+Raghu  Ramakrishnan                      765      .0174721
+Hans-Peter  Kriegel                      809      .0166974
+Hong  Wang                               936      .0146335
+Alberto L. Sangiovanni-Vincentelli       710      .0132742
+Jimeng  Sun                              844      .0132666
+Miron  Livny                             751      .0117539
+Robert K. Brayton                        1627     .0106764
+Luca P. Carloni                          1588     .0098182
+
+
+
+Top 10 ranked authors given query “Information Retrieval”
+
+Query: information retrieval
+2556 total matching documents
+Unique authors: 153
+Author                                   VertexId Pagerank
+Christos  Faloutsos                      813      .0351521
+Hans-Peter  Kriegel                      809      .0178953
+Jason  Cong                              1495     .0177577
+Kathryn S. McKinley                      34       .0157876
+David  Tarditi                           181      .0136858
+Raghu  Ramakrishnan                      765      .0131122
+James R. Larus                           286      .0097617
+Steven  Levi                             960      .0095312
+Bjarne  Steensgaard                      968      .0095312
+Manuel  F&#228;hndrich                   967      .0095312
+
