@@ -1,4 +1,4 @@
-Retrieval Algorithm and Evaluation
+Retrieval Algorithms and Evaluation
 
 
 
