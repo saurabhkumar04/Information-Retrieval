@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/commons-lang3-3.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/lucene-analyzers-common-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/lucene-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/lucene-queries-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/lucene-queryparser-4.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/jung-algorithms-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/jung-api-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/lucene4.10/lucene4.10/jung-io-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
