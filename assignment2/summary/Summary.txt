@@ -1,0 +1,7 @@
+Summary: We can observe few things from the short and long query tables:
+1) Tf_Idf does not perform as well as the other models, both for short and long queries. An important reason for this could be that TF_IDF treats each word independently. If we use cosine similarity with TF_IDF, we can get a better result. TF_IDF as alone is inefficient as traversing index document by document is not a good way to go.
+2) All algorithms perform better for short query than long query. Main reason for this could be that for long queries the tuning is not done properly and there are words that don’t contribute to the intended requirement for search or the perfect query. This lowers its performance. 
+3) Language Model with Dirichlet Smoothing performs best for short queries, according to parameters -‘Precision at K’ and ‘Recall at K’.
+4) BM25 overall performs best for long queries, as it has highest values for ‘Precision at K’ and comparable results to Language Model with Dirichlet Smoothing for ‘Recall at K’ and ‘NDCG’.
+5) Map is mostly same for all algorithms, except for TF_IDF.
+6) BM25 and Language Model with Dirichlet Smoothing models have better MRR for long queries. BM25 and Vector Space models have better MRR for long queries.
